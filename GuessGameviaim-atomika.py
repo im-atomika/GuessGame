@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#Guessing Game
+#Guessing Game by im-atomika
 from random import randint
 num=randint(0,100)
 num
